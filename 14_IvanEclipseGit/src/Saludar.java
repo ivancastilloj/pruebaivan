@@ -3,7 +3,7 @@ public class Saludar {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Hola amiwi");
+		System.out.println("¿Qué tal?");
 		
 	}
 
